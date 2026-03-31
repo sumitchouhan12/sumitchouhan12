@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0d1117&height=200&section=header&text=Sumit%20Singh%20Chouhan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+AI+%2F+ML+Enthusiast;Building+Real+World+Projects;Placement+Focused+%7C+Problem+Solver;Consistent+Learning+%7C+Practical+Approach" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+%7C+AI+%7C+ML+Engineer+in+Progress;Placement+Focused+%7C+Project+Driven;Learning+Daily+%7C+Building+Quietly;Results+Will+Speak" />
 </p>
 
 <p align="center">
@@ -10,35 +10,23 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
+🎓 4th Year CSE Student  
+💻 Python-first approach with **AI & Machine Learning focus**  
+🧩 Strong belief in fundamentals + implementation  
+🎯 Goal: **Become a solid engineer, not just get a job**
 
-🎓 Final Year B.Tech CSE Student  
-💻 Python Developer with focus on **AI & Machine Learning**  
-🚀 I build **real-world applications**, not just tutorials  
-📈 Currently improving in **Backend, AI & System Design**
-
----
-
-## 🚀 Key Projects
-
-### 🔹 Smart Resume Ranker  
-ML-based web app to rank resumes based on job descriptions  
-- Tech: Python, Flask, HTML, CSS, JavaScript  
-- Features: Resume parsing, similarity scoring, ranking system  
+I don’t rush.  
+I don’t fake progress.  
+I build skills that compound.
 
 ---
 
-### 🔹 Employee Sentiment Analyzer (LLM)  
-AI system to analyze employee feedback and sentiment  
-- Tech: Python, NLP, LLM  
-- Use Case: HR analytics & insights  
-
----
-
-### 🔹 Binance Trading Bot  
-Automated trading bot using real-time API data  
-- Tech: Python, API Integration  
-- Features: Trade execution, automation logic  
+## 🤖 AI / ML Focus (Hard Direction)
+- Python for logic, data handling, automation  
+- Machine Learning fundamentals (scikit-learn)  
+- Resume parsing, ranking & similarity systems  
+- Clean code, problem solving, real use-cases  
 
 ---
 
@@ -49,19 +37,21 @@ Automated trading bot using real-time API data
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Placement Ready)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitchouhan12&repo=Smart-Resume-Ranker&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitchouhan12&repo=Employee-Sentiment-LLM-Project&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitchouhan12&repo=VillageConnect&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitchouhan12&repo=binance-trading-bot&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitchouhan12&repo=Web-Projects&theme=tokyonight&hide_border=true" />
 </p>
+
+👉 Repos are improved continuously with cleaner code and better structure.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitchouhan12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitchouhan12&theme=tokyonight&hide_border=true" height="170"/>
@@ -69,8 +59,23 @@ Automated trading bot using real-time API data
 
 ---
 
+## 🧠 Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitchouhan12&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Daily Contribution Graph
+<p align="center">
+  <img src="https://github.com/sumitchouhan12/sumitchouhan12/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📄 Resume
-📌 [View Resume](#) *(Add your resume link here)*  
+📌 Resume section will be linked here once finalized  
+(Currently focused on building stronger projects)
 
 ---
 
@@ -90,7 +95,8 @@ Automated trading bot using real-time API data
 ---
 
 <p align="center">
-  <b>⚡ Consistency + Projects + Skills = Results</b>
+  <b>⚡ Building quietly. Improving daily. No shortcuts.</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=120&section=footer"/>
+
