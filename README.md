@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 Who I Am
-🎓 4th Year CSE Student  
+🎓 Graduate CSE Student  
 💻 Python-first approach with **AI & Machine Learning focus**  
 🧩 Strong belief in fundamentals + implementation  
 🎯 Goal: **Become a solid engineer, not just get a job**
